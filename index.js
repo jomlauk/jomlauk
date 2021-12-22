@@ -1,5 +1,5 @@
 var stripeSecretKey = "sk_test_51JaRFgH9uesa3Tw6PldlU12LlTyNPjc73zus10Chl5ZXW0iZXsJRVxxuuKYH60iVY0EcIUDUvxew0Mi3I1r3FzrR00uD5kKpZ6";
-var websiteUrl = "jomlauk://uk.co.jomla";
+var websiteUrl = "jomlauk://jomla.co.uk";
 var stripe = require("stripe")(stripeSecretKey);
 
 // BASE SETUP
